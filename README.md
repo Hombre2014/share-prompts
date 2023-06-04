@@ -4,8 +4,8 @@
 
 ## Screenshots
 
-![Home](public/assets/images/promptopia.jpg)
-![Create prompt](public/assets/images/Create_prompt.jpg)
+![Home](public/assets/images/promptopia_home.jpg)
+![Create prompt](public/assets/images/promptopia_create.jpg)
 
 ## Built With
 
