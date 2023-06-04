@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Yuriy Chamkoriyski's React Portfolio
 
-## Getting Started
+> Promptopia is an open-source project that uses AI to generate and share creative prompts.
 
-First, run the development server:
+## Built With
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Major languages: JavaScript
+- Backend: Next.JS
+- Framework: Tailwind CSS, React
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Live Link
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can view the current deployment by clicking the link bellow:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[Live Link](https://promptopia-hombre2014.vercel.app/)
 
-## Learn More
+### Deployment
 
-To learn more about Next.js, take a look at the following resources:
+- Using [Vercel](https://vercel.com/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Author
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+👤 **Yuriy Chamkoriyski**
 
-## Deploy on Vercel
+- GitHub: [@Hombre2014](https://github.com/Hombre2014)
+- Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
+- LinkedIn: [axebit](https://linkedin.com/in/axebit)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🤝 Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Hombre/sgare-prompts/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+Thanks to JavaScript Mastery for inspirational [video](https://www.youtube.com/watch?v=wm5gMKuwSYk&ab_channel=JavaScriptMastery).
+
+## 📝 License
+
+This project is [MIT](./license.md) licensed.
