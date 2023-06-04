@@ -1,6 +1,6 @@
 # Promptopia
 
-> Promptopia is an open-source project that uses AI to generate and share creative prompts.
+> Promptopia is an open-source project that create and share prompts for ChatGPT.
 
 ## Screenshots
 
