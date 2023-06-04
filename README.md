@@ -1,6 +1,11 @@
-# Yuriy Chamkoriyski's React Portfolio
+# Promptopia
 
 > Promptopia is an open-source project that uses AI to generate and share creative prompts.
+
+## Screenshots
+
+![Home](public/assets/images/promptopia.jpg)
+![Create prompt](public/assets/images/Create_prompt.jpg)
 
 ## Built With
 
